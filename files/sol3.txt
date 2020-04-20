@@ -1,0 +1,92 @@
+warm-up:
+convert the starting message using morse code to hex
+turn the hex into base32
+turn that to english for a discord invite to the hub (https://discord.gg/G9KRZ7M)
+
+step 1:
+open the first image file as text and find the message to the starting discord invite (https://discord.gg/RvFyfVT)
+change the color balance of the image to find the numbers "seven five three six four nine"
+use the numbers as the key for caesar cipher to each line in the message
+convert the caesar cipher message using the changed alphabet to get a youtube channel link
+check the channel description for a code that can be translated using Base32
+convert Base32 into a private youtube video link                                                                                       
+record the audio file and import it into an audio visualizer to see an image from the audio
+the audio image reveals a drobox link to a text file that can be converted into an image
+change the brightness of the image and then increase the saturation
+de-swirl the image to find a link to a series of images and the first letter to the final discord (H)
+the new images must be pieced together to reveal a message of numbers and letters
+translate the message using hex and get a message to send to the bot (iLOVEscf999)
+unlock verification for step 2
+
+step 2:
+use the first letter of each line in the poem to know you need caesar cipher 7
+take each capital letter from the second story to translate with the caesar cipher
+reverse the code used in the third story and add it onto the fourth
+look in the description of channel 3 for the secret letter (F)
+dm the bot the finished code for access to step 3 (trebombisepic3850197)
+
+step 3:
+deswirl the first image and then flip it upside down
+copy the message backwards to see a youtube video link
+screenshot the youtube video and increase the brightness and saturation then add an h to cipher
+get a link to a new series of images on an imgur page
+each image has its own number title for the order
+image 4 contains the secret letter (j)
+convert each image to reveal a set of letters and numbers
+combine the codes from each image in order to get a message to send to the bot (giveROBUX1)
+send the bot the message to get into step 4
+
+step 4:
+invert the 0s and the 1s in the binary
+translate the binary into ascii
+use the ascii for a google sites link
+browse the website to find the first piece
+convert the hex into morse
+change the morse into text and get a google sites link
+take each image from the google sites and piece it together to get the second piece                                
+follow the youtube link and go to an unlisted video
+check the comments for a message in base64
+base64 sends you to a google docs link
+highlight the text to see white messages in ascii85
+turn the ascii85 into text to get a google slides presentation
+take the image from the google presentation as the third piece
+convert the tap code into hex
+convert the hex into base32
+convert the base 32 back into hex
+convert the hex into morse
+convert the morse into text
+follow the link to gyazo with the fourth piece
+view the image with 26 symbols as the alphabet plus 10 numbers on the bottom
+inspect the file code for a link to a youtube video
+translate each image on the youtube video using the alphabet
+get a gyazo link to the fifth piece 
+put together all 5 pieces to get the code for the bot as well as another letter for the final code
+gain access to step 5 by sending the puzzle message to the bot (iAMsoCLOSE)
+
+step 5:
+translate the beeps into morse code
+turn the morse code into hex
+follow a hyperlink in the doc to an image
+turn the image to text and get letters 1, 2, 3
+convert the base64 on screen into binary
+turn the binary into hex
+translate the hex into text for letters 4, 5, 6
+screenshot the image and deswirl it for letter 7
+screenshot the image and brighten it for letters 8, 9
+view the alert at the bottom of the screen for the next secret letter
+reverse the tts audio for letter 10
+translate the message on screen from a1z26
+turn a1z26 to text for letters 11, 12, 13, 14
+notice the letters on the building in the video for letters 15, 16, 17
+flip the video right side up and see the text for letters 18, 19, 20
+read the words in the roblox map for the order of capitals on the words
+enter the words into the bot for access to step 6 (okTHISisBORINGnowLOL)
+
+step 6:
+change integer(U8) to base32
+translate base32 into base64
+convert the base64 to binary ascii
+change the binary to morse
+turn the morse into hex
+convert the hex using caesar cipher 8 (haveafun)
+translate the message using ROT47 to reveal the final characters and a message that it is all the link to the final server (https://discord.gg/HFjGag4)
