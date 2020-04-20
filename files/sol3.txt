@@ -89,4 +89,4 @@ convert the base64 to binary ascii
 change the binary to morse
 turn the morse into hex
 convert the hex using caesar cipher 8 (haveafun)
-translate the message using ROT47 to reveal the final characters and a message that it is all the link to the final server (https://discord.gg/HFjGag4)
+translate the message using ROT47 to reveal the final characters and a message that it is all the link to the final server
